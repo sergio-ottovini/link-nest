@@ -35,7 +35,7 @@ git switch -c my-fix origin/v1
 
 > "If you would like to help improve the application, fix a bug, or suggest a new feature, please join us at [GitHub Repository]."
 
-**[🔗 Go to Link Nest on GitHub](https://github.com/your-username/link-nest)** *(Replace with actual link)*
+**[🔗 Go to Link Nest on GitHub](https://github.com/sergio-ottovini/link-nest)** *(Replace with actual link)*
 
 ### Code reviews
 
