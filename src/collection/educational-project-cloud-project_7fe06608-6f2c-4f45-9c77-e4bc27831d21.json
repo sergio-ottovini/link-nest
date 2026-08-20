@@ -1,0 +1,311 @@
+{
+  "format": "my-knowledge-base-project",
+  "formatVersion": 1,
+  "exportedAt": "2026-08-18T22:17:38.226Z",
+  "project": {
+    "id": "project_fb021ad9-f120-4a21-ab41-93630a5382f8",
+    "name": "Github education",
+    "description": "Whether you’re teaching a class or managing an entire curriculum, GitHub Education is here to support you.",
+    "themeId": "rose",
+    "createdAt": "2026-08-17T18:47:57.967Z",
+    "updatedAt": "2026-08-18T22:02:54.838Z",
+    "groups": [
+      {
+        "id": "group_e3ecfc81-166d-43bd-b256-ee43e9aaebab",
+        "title": "GitHub Developer Pack",
+        "expanded": true,
+        "groups": [
+          {
+            "id": "group_72f4f696-6cf5-43b3-a5d9-886897616cb7",
+            "title": "Technical Writing AI tools",
+            "expanded": true,
+            "groups": [
+              {
+                "id": "group_3074f14c-8334-47a5-9a26-198d1c43b48c",
+                "title": "Tools Experience",
+                "expanded": true,
+                "groups": [
+                  {
+                    "id": "group_e4f375b9-53e6-4d97-85a8-006c2dc60252",
+                    "title": "GH Certification",
+                    "expanded": true,
+                    "groups": [
+                      {
+                        "id": "group_ef99c45f-764d-4879-aa59-c5e4d8c68f92",
+                        "title": "GitHub Actions Certification",
+                        "expanded": true,
+                        "groups": [
+                          {
+                            "id": "group_2e3a8b84-0d80-4049-88b7-9a33e58c8e04",
+                            "title": "MS Foundation Learning Path",
+                            "expanded": true,
+                            "groups": [],
+                            "links": [
+                              {
+                                "id": "link_e7ec04c7-0786-4b60-9b84-1e07b8abbccd",
+                                "title": "Fundamental concepts",
+                                "url": "https://learn.microsoft.com/en-us/collections/o1njfe825p602p",
+                                "siteIco": "https://learn.microsoft.com/favicon.ico",
+                                "reason": "The \"GitHub Foundations Learning Path\" is a concise and beginner-friendly journey designed to introduce you to the fundamental concepts and products of GitHub.",
+                                "state": "",
+                                "tags": [
+                                  "ms",
+                                  "edu"
+                                ],
+                                "createdAt": "2026-08-18T21:48:10.571Z",
+                                "updatedAt": "2026-08-18T21:48:10.571Z"
+                              },
+                              {
+                                "id": "link_e126474d-686d-4e2e-a7df-93732b4c31bd",
+                                "title": "GitHub Actions",
+                                "url": "https://learn.microsoft.com/en-us/collections/n5p4a5z7keznp5",
+                                "siteIco": "https://learn.microsoft.com/favicon.ico",
+                                "reason": "Automate all my software workflows with world-class CI/CD. Build",
+                                "state": "",
+                                "tags": [
+                                  "cicd",
+                                  "gh-actions"
+                                ],
+                                "createdAt": "2026-08-18T21:49:18.934Z",
+                                "updatedAt": "2026-08-18T21:49:18.934Z"
+                              },
+                              {
+                                "id": "link_ce797163-68ef-4268-afc8-ccf749e0aca9",
+                                "title": "Manage your work with GitHub Projects",
+                                "url": "https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/?ns-enrollment-type=Collection&ns-enrollment-id=o1njfe825p602p",
+                                "siteIco": "https://learn.microsoft.com/favicon.ico",
+                                "reason": "Learn to use GitHub Projects to create issues, break them into tasks, track relationships, add custom fields, and have conversations.",
+                                "state": "",
+                                "tags": [
+                                  "adm",
+                                  "dev-ops"
+                                ],
+                                "createdAt": "2026-08-18T21:50:42.925Z",
+                                "updatedAt": "2026-08-18T21:50:42.925Z"
+                              }
+                            ]
+                          }
+                        ],
+                        "links": [
+                          {
+                            "id": "link_69cbeaa3-f70b-48f1-9911-38e537608d8f",
+                            "title": "GitHub Docs",
+                            "url": "https://docs.github.com/en",
+                            "siteIco": "http://docs.github.com/assets/cb-345/images/site/favicon.png",
+                            "reason": "",
+                            "state": "",
+                            "tags": [
+                              "docs"
+                            ],
+                            "createdAt": "2026-08-17T21:09:46.784Z",
+                            "updatedAt": "2026-08-18T22:02:29.077Z"
+                          },
+                          {
+                            "id": "link_7f68ff97-0e4d-4bba-a890-a38db406ca67",
+                            "title": "GitHub Apps overview",
+                            "url": "https://docs.github.com/en/apps/overview",
+                            "siteIco": "https://docs.github.com/assets/cb-345/images/site/favicon.png",
+                            "reason": "I can use GitHub Apps to extend the functionality of GitHub.",
+                            "state": "",
+                            "tags": [
+                              "apps"
+                            ],
+                            "createdAt": "2026-08-17T21:15:56.659Z",
+                            "updatedAt": "2026-08-18T22:02:54.838Z"
+                          }
+                        ]
+                      }
+                    ],
+                    "links": [
+                      {
+                        "id": "link_2f5ef087-1d16-45e7-81ee-3e1cebf50bbd",
+                        "title": "GitHub Certifications video",
+                        "url": "https://www.youtube-nocookie.com/embed/M3IZLIvr7GA",
+                        "siteIco": "",
+                        "reason": "Elevate your tech profile by earning a certification that demonstrates your GitHub prowess. Kedasha and Aaron dive into the program's ins and outs and how you can achieve GitHub Certification. Expand your GitHub expertise and open the door to new possibilities.",
+                        "state": "",
+                        "tags": [],
+                        "createdAt": "2026-08-18T21:23:31.055Z",
+                        "updatedAt": "2026-08-18T21:23:31.055Z"
+                      },
+                      {
+                        "id": "link_ec60c176-fc66-4b01-af70-78f31733f493",
+                        "title": "GitHub Certifications Guide",
+                        "url": "https://github.com/LadyKerr/github-certification-guide",
+                        "siteIco": "https://github.com/favicon.ico",
+                        "reason": " This guide will help you prepare for the exams and provide you with resources to help you succeed. ",
+                        "state": "",
+                        "tags": [
+                          "certis"
+                        ],
+                        "createdAt": "2026-08-18T21:27:18.927Z",
+                        "updatedAt": "2026-08-18T21:27:18.927Z"
+                      },
+                      {
+                        "id": "link_56668d3f-4086-4839-9252-086b18a323b4",
+                        "title": "GitHub Certifications Blog",
+                        "url": "https://github.blog/news-insights/product-news/github-certifications-are-generally-available/",
+                        "siteIco": "https://github.blog/favicon.ico",
+                        "reason": "GHAS certification program",
+                        "state": "",
+                        "tags": [
+                          "ghas"
+                        ],
+                        "createdAt": "2026-08-18T21:32:15.463Z",
+                        "updatedAt": "2026-08-18T21:32:15.463Z"
+                      }
+                    ]
+                  }
+                ],
+                "links": [
+                  {
+                    "id": "link_9ff93457-2876-45ec-b1d0-e432be4e8c24",
+                    "title": "Virtual Event Kit",
+                    "url": "https://education.github.com/experiences/virtual_event_kit",
+                    "siteIco": "https://education.github.com/favicon.ico",
+                    "reason": "",
+                    "state": "",
+                    "tags": [
+                      "vik",
+                      "event"
+                    ],
+                    "createdAt": "2026-08-18T21:20:32.390Z",
+                    "updatedAt": "2026-08-18T21:20:32.390Z"
+                  }
+                ]
+              }
+            ],
+            "links": [
+              {
+                "id": "link_34954100-a3e8-40ab-8e9d-bc7edb47902f",
+                "title": "AI Prompting & Technical Writing",
+                "url": "https://education.github.com/experiences/ai_prompt_tech_writing",
+                "reason": "education github",
+                "state": "",
+                "tags": [
+                  "github",
+                  "study",
+                  "ai"
+                ],
+                "createdAt": "2026-08-17T18:48:35.563Z",
+                "updatedAt": "2026-08-18T20:55:20.801Z",
+                "siteIco": "https://education.github.com/favicon.ico"
+              },
+              {
+                "id": "link_7157ec1b-3110-419c-9a47-84e05202d755",
+                "title": "Understanding AI prompting for technical writing",
+                "url": "https://www.educative.io/blog/ai-prompting-for-technical-writing",
+                "siteIco": "https://www.educative.io/static/favicons/faviconV2.png",
+                "reason": "study",
+                "state": "",
+                "tags": [
+                  "study",
+                  "ai"
+                ],
+                "createdAt": "2026-08-18T20:56:51.143Z",
+                "updatedAt": "2026-08-18T20:58:26.655Z"
+              },
+              {
+                "id": "link_02dbe7da-af65-4c79-9977-4dd5a7187b97",
+                "title": "Prompting guide",
+                "url": "https://www.promptingguide.ai/",
+                "siteIco": "",
+                "reason": "",
+                "state": "",
+                "tags": [],
+                "createdAt": "2026-08-18T21:04:35.532Z",
+                "updatedAt": "2026-08-18T21:04:35.532Z"
+              }
+            ]
+          },
+          {
+            "id": "group_5aa92a68-38bb-4918-883b-399cfe90d706",
+            "title": "Podcasts",
+            "expanded": true,
+            "groups": [],
+            "links": [
+              {
+                "id": "link_90d83fb8-d14c-4649-8fc4-dea1096c5f73",
+                "title": "Powering public goods",
+                "url": "https://github.com/readme/podcast/powering-public-goods",
+                "siteIco": "https://github.com/favicon.ico",
+                "reason": "In this episode of The ReadME Podcast, hosts Neha Batra and Martin Woodward look back on their growth and learnings",
+                "state": "",
+                "tags": [],
+                "createdAt": "2026-08-18T21:57:53.046Z",
+                "updatedAt": "2026-08-18T21:57:53.046Z"
+              }
+            ]
+          },
+          {
+            "id": "group_1ba87234-832d-430f-91a1-5e911c8e3ac6",
+            "title": "Topics",
+            "expanded": true,
+            "groups": [],
+            "links": [
+              {
+                "id": "link_576373b1-90f9-4676-8284-ea8ddb3e5150",
+                "title": "Advancing inclusion with progressive enhancement",
+                "url": "https://github.com/readme/stories/aaron-gustafson",
+                "siteIco": "https://github.com/favicon.ico",
+                "reason": "Aaron’s journey towards progressive enhancement and inclusive design",
+                "state": "",
+                "tags": [],
+                "createdAt": "2026-08-18T21:59:17.990Z",
+                "updatedAt": "2026-08-18T21:59:17.990Z"
+              }
+            ]
+          }
+        ],
+        "links": [
+          {
+            "id": "link_8f92a237-42b6-46f2-867e-762525f6c97c",
+            "title": "Learn GitHub within GitHub",
+            "url": "https://learn.github.com/courses",
+            "siteIco": "https://learn.github.com/favicon.ico",
+            "reason": "learn github",
+            "state": "",
+            "tags": [
+              "learn",
+              "github"
+            ],
+            "createdAt": "2026-08-18T20:59:59.345Z",
+            "updatedAt": "2026-08-18T21:06:35.523Z"
+          },
+          {
+            "id": "link_bdaefb5f-cfad-46cd-a958-83d106d5e813",
+            "title": "Enhance your teaching experience with GitHub",
+            "url": "https://github.com/education/teachers",
+            "siteIco": "https://github.com/favicon.ico",
+            "reason": "",
+            "state": "",
+            "tags": [
+              "gitHub"
+            ],
+            "createdAt": "2026-08-18T21:05:34.481Z",
+            "updatedAt": "2026-08-18T21:05:34.481Z"
+          }
+        ]
+      },
+      {
+        "id": "group_20ce491e-2465-4999-842b-65dec5eb6ccd",
+        "title": "Career",
+        "expanded": true,
+        "groups": [],
+        "links": [
+          {
+            "id": "link_3854d34f-9ca0-49e8-8737-2e1c33847a04",
+            "title": "Career Development ",
+            "url": "https://github.com/readme/topics/career-development",
+            "siteIco": "https://github.com/favicon.ico",
+            "reason": "These unsung heroes put in long hours to build software, fix issues, field questions, and manage communities.",
+            "state": "",
+            "tags": [],
+            "createdAt": "2026-08-18T22:00:50.026Z",
+            "updatedAt": "2026-08-18T22:00:50.026Z"
+          }
+        ]
+      }
+    ]
+  }
+}
