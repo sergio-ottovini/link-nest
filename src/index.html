@@ -237,8 +237,8 @@
     </div>
     <button id="newProjectBtn" class="primary">＋ New project</button>
      <!-- <button id="createNewProjectBtn" onclick="createProject()" class="primary">＋ C New project</button> -->
-    <button id="importBtn">Import project JSON</button>
-    <input id="importFile" type="file" accept="application/json" hidden>
+    <button id="importBtn" type="button">Import project JSON</button>
+    <input id="importFileInput" type="file" accept="application/json,.json" hidden>
     <div class="project-list" id="projectList"></div>
 
     <button id="aboutBtn" type="button"> About</button>
@@ -1299,6 +1299,24 @@
     }
 
     render();
+  });
+
+  const importBtn = $("#importBtn");
+  const importFileInput = $("#importFileInput");
+  
+  importBtn.addEventListener("click", () => {
+    importFileInput.click();
+  });
+  
+  importFileInput.addEventListener("change", async event => {
+    const [file] = event.target.files;
+  
+    if (!file) return;
+  
+    await importFile(file);
+  
+    // Allows importing the same file again later.
+    event.target.value = "";
   });
 
 </script>
